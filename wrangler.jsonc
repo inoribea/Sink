@@ -14,7 +14,7 @@
     "logs": {
       "enabled": true
     }
-  },
+  }, 
   "keep_vars": true,
   "upload_source_maps": true,
   "ai": {
